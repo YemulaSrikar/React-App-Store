@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.apps-lists {
+  list-style-type: none;
+  margin-right: 30px;
+}
+.apps-imgs {
+  background-color: #ffffff;
+  border-radius: 06px;
+  padding: 15px;
+  height: 100px;
+  width: 100px;
+}
+.imag-desc {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+}

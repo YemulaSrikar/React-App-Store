@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.lists {
+  list-style-type: none;
+  margin-right: 30px;
+}
+.click-btn {
+  border-width: 0px;
+  cursor: pointer;
+}
+.add-border {
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+  border-width: 0px;
+  color: #2563eb;
+}
